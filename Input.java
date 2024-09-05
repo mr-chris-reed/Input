@@ -4,7 +4,7 @@ public class Input
 {
     public static void main (String [] args)
     {
-        System.out.print("Please enter an integer: ");
+        System.out.print("Please enter an integer my friend: ");
         Scanner sc = new Scanner(System.in);
         int myInt = sc.nextInt();
 
